@@ -1,0 +1,21 @@
+{
+    "Attendance": "Chấm công",
+    "Attendance report": "Báo cáo Chấm công",
+    "Weekend Setup": "Thiết lập cuối tuần",
+    "Holiday Setup": "Thiết lập ngày lễ",
+    "Shift Setup": "Thiết lập ca làm việc",
+    "Duty Schedule": "Lịch trình nhiệm vụ",
+    "Attendance History": "Lịch sử Chấm công",
+    "Consider Time": "Xem xét thời gian",
+    "Live Tracking": "Theo dõi trực tiếp",
+    "Edit Attendance": "Chỉnh sửa Điểm danh",
+    "Select Employee": "Chọn nhân viên",
+    "Attendance has been updated": "Điểm danh đã được cập nhật",
+    "Normal": "Bình thường",
+    "Face Recognition": "Nhận dạng khuôn mặt",
+    "QRCODE": "Mã QR",
+    "00:00:00": "00:00:00",
+    "Location Timeline": "Vị trí Dòng thời gian",
+    "Duty Shifts": "Ca làm việc",
+    "Weekend": "Cuối tuần"
+}
